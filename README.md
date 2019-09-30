@@ -1,0 +1,2 @@
+# Citi-Bike-for-Windows-Excel-Filename-Counter
+This repository contains a program that downloads data from CitiBike in JSON format. It reads the JSON format from a webpage that stores the data, and populates a listview with the information. There is also a utility that reads in an excel file that has a list of filenames in the first column, and reports how many instances of the same filename exist in the spreadsheet.
